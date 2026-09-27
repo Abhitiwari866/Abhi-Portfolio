@@ -1,4 +1,4 @@
-# Abhi portfolip
+# Abhi portfolio
 This is my  personal portfolio  website
 I made this website using html and css
 It show some information about me ,my skill and my projects.
