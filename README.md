@@ -5,6 +5,8 @@ It show some information about me ,my skill and my projects.
 
 ## website preview
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a5e1886b-24fa-4958-9650-205fb0e4cc42" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/306e61f0-38e7-40cf-90d5-0a048a3268a1" />
+
 
 #About me
 This section contains some information about me.
