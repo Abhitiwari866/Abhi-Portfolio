@@ -1,65 +1,24 @@
-# Abhi- My personal Portfolio
-Hii, I'm Abhi tiwari . I am class 11 student study and learning wweb devlopment also learing new things about technology .
-I made this portfolio web to show case my skills, about me , fututre goals and my projects i have worked on it .
+# Abhi portfolip
+This is my  personal portfolio  website
+I made this website using html and css
+It show some information about me ,my skill and my projects.
+
+#website preview
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a5e1886b-24fa-4958-9650-205fb0e4cc42" />
+
+#About me
+This section contains some information about me.
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/306e61f0-38e7-40cf-90d5-0a048a3268a1" />
+
+ ##my skills
+ here  are some skills I am currently learning .
+ <img width="1440" height="900" alt="Screenshot 2026-09-27 at 7 18 36 PM" src="https://github.com/user-attachments/assets/01f47662-eda8-418c-a326-7ddf506085a5" />
+ ##my project 
+ These are some project i have worked on.
+ <img width="1440" height="900" alt="Screenshot 2026-09-27 at 7 35 54 PM" src="https://github.com/user-attachments/assets/60d55392-93e8-4515-bcd3-09d1f46e1956" />
+ <img width="1440" height="900" alt="Screenshot 2026-09-27 at 7 36 03 PM" src="https://github.com/user-attachments/assets/98b36f66-3de6-45cf-a6f3-b74223db7a2b" />
 
 
-
-
-##About my portfolio
-
-This is my personal portfolio website
-I made this  portfolio using html and css . 
-i want make something simple that can i use to show  my work and also improve my web dev. skills
-
-
-
-
-
-##Technology Used 
-
-For this project i used,
-  .HTML
-  .CSS
-  .GitHub
-##what is in my portfolio
-My website has different sections where I have added :
-  .My intro
-  .my skills
-  .about me
-  .my projects 
-  .things i'm learning 
-  .my github 
-  .my facebook 
-  .contact link
-
-  ##why i made this 
-
-  i made this project because i wanted to create my own portfolio instead of just doing small practice files
-  it helped me learn more about
-
-      .HTML STRUCUTURE
-      .CSS STYLING 
-      .UI/UX LAYOUT
-      .RESPONSIVE DESGIN 
-      .USING GITHUB
-
-  ##future plan 
-
-  I'm still working on this portfolio
-  in the future i want to,
-    .ADD MORE PROJECT
-    .ADD MORE FUTURE GOAL 
-    . IMPROVE THE UI/UX
-    .LEARN JAVASCRIPT 
-    .ADD MORE FEATURES 
-    .MAKE THE MOBILE VERSION BETTER
-    .KEEP ADDING MY NEW PROJECTS
-
-    ##Projects status
-    This project is still in progress
-    i Will continue improving it as i learn more about coding and web devlopment
-
-    ##About
-      .NAME = ABHI TIWARI.
-      .CLASS= 11TECH
-      .LEARNING WEB AND GAME DEV .
+## what i learned 
+While making this project , I learned more
+about html,css,responsive desgin and website layyouts
